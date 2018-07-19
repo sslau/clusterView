@@ -1,0 +1,8 @@
+{
+  "name": "clusterView",
+  "app_id": "9bef1bb3",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
